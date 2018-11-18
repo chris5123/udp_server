@@ -174,25 +174,6 @@ int main(int argc, char **argv)
 		printf("thread is alive\n");
 	}
 	printf("thank you\n");
-	/*message send by UDP*/
-
-	/*thread*/
-	
-	/*
-	if(sendlength<0)
-	{		
-		printf("write to server error");
-	}
-	if(recvlength<0)
-	{		
-		printf("read from server error");
-	}
-	else
-	{
-		printf("congratulations\n");
-	}
-	*/
-
 	return r_SystemOff;
 }
 
